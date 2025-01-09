@@ -17,17 +17,8 @@ Images: Extracts all image URLs (img tags) and prints the source URLs.
                        -> pip install requests
                        -> pip install beautifulsoup4
 
-### Usage
-
-  To execute the web scraping module, follow the steps below:
-        -> Extract the files from Zip folder(MARAM_SINDHU_21311A6921)
-        -> Download the file: Download the Python file (21311A6921_Webscraper.py) and save it in a folder of your choice.
-        -> Open the Folder in VS Code:
-        -> In VS Code, click on the script file (21311A6921_Webscraper.py) to open it in the editor.
-        -> Open the Terminal and Click on New Terminal.
-
 ### Run the Script:
-       -> To execute the file, type the following command  python 21311A6921_Webscraper.py and hit on Enter.
+       -> To execute the file, type the following command  python Webscraper.py and hit on Enter.
 
 ### Extension
      -> For Scraping Dynamic Webpages use Selenium library.
